@@ -49,4 +49,4 @@ The analysis includes the following visualizations:
 - Favorite programming languages
 
 
-   ![Power Pi Visualization](power_pi_visualization.png)
+   ![Power Pi Visualization](power_pi_visualization.JPG)
